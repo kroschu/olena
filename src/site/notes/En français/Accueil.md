@@ -2,6 +2,7 @@
 {"title":"Accueil","dg-publish":true,"dg-metatags":null,"dg-home":null,"permalink":"/en-francais/accueil/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
+
 >Arrête-moi, reprends tes sens et reprends-toi,
 Un tel amour n'arrive qu'une fois dans l'éternité,
 Il passe rapidement au-dessus d'une vie brisée,
