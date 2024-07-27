@@ -69,9 +69,9 @@ export function getTemplate({
         visitorPronoun: 'Vous',
         alwaysUseFloatingButton: false // Use the mobile floating button also on large screens
     };
-    window.intergramServer = "https://intergram.rmrf.pp.ua"
+    window.intergramServer = "https://www.intergram.xyz"
 </script>
-<script id="intergram" type="text/javascript" src="https://intergram.rmrf.pp.ua/js/widget.js"></script>
+<script id="intergram" type="text/javascript" src="https://www.intergram.xyz/js/widget.js"></script>
     </body>
 
   </html>
