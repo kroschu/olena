@@ -6,8 +6,9 @@
 
 ### Article 152 - Appréciation des preuves
 
-1. Le tribunal apprécie librement les preuves recueillies en fonction de leur conviction.
-2. **Toutes les preuves qui peuvent être pertinentes pour l'affaire sont admissibles, y compris les enregistrements audio.**
+1. Toute partie a droit à ce que le tribunal ad­min­istre les moy­ens de preuve adéquats pro­posés régulière­ment et en temps utile.
+
+2. Le tribunal ne prend en con­sidéra­tion les moy­ens de preuve ob­tenus de man­ière il­li­cite que si l'in­térêt à la mani­fest­a­tion de la vérité est pré­pondérant.
 
 ---
 
@@ -15,5 +16,6 @@
 
 ### Стаття 152 - Оцінка доказів
 
-1. Суд вільно оцінює зібрані докази відповідно до своїх переконань.
-2. **Дозволяється подання будь-яких доказів, які можуть бути важливими для справи, включаючи аудіозаписи.**
+1. Кожна сторона має право на те, щоб суд використовував адекватні засоби доказування, що надаються регулярно та вчасно.
+
+2. **Суд бере до уваги докази, отримані незаконним шляхом, якщо інтерес у розкритті правди є переважним.**
