@@ -2,6 +2,18 @@
 {"title":"Lettre à ma femme","dg-publish":true,"dg-metatags":null,"dg-home":null,"permalink":"/france/lettre-a-ma-femme/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
+>Спини мене отямся і отям  
+така любов буває раз в ніколи  
+вона ж промчить над зламаним життям  
+за нею ж будуть бігти видноколи  
+вона ж порве нам спокій до струни  
+вона ж слова поспалює вустами  
+спини мене спини і схамени  
+ще поки можу думати востаннє  
+ще поки можу але вже не можу  
+настала черга й на мою зорю  
+чи біля тебе душу відморожу  
+чи біля тебе полум'ям згорю
 
 > •Lina Kostenko
 
@@ -583,7 +595,7 @@ devraient recevoir une évaluation équitable.
 Ce serait plus facile si tu revenais vers moi, mais parfois il faut
 parcourir un long chemin. C'est bon, c'est tout Ok faisons-le.
 
-L'amour et la vérité sont ce qui nous aidera. [[France/Voici l'histoire de notre amour\|Voici l'histoire de notre amour]]. S'il vous plaît, regardez à nouveau, rappelez-vous.
+L'amour et la vérité sont ce qui nous aidera. [[Voici l'histoire de notre amour\|Voici l'histoire de notre amour]]. S'il vous plaît, regardez à nouveau, rappelez-vous.
 Nous on t'aime, petite étoile, maman. Je veillerai à la vérité.
 
 Vous vous souvenez peut-être de la Bible, de l'Évangile de Jean 8 :32.
