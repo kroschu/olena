@@ -127,9 +127,7 @@ pensais que tu l'étais aussi tu comprends tout cela. Compris... J'ai dû
 oublier maintenant. Evgeny Leonov peut vous le rappeler. Peut-être que
 tu l'entendras un jour j'ai arrêté de m'entendre C'est un génie.
 
-{% tiktok "https://ww
-[w.tiktok.com/@best_short_moments/video/7018](https://www.tiktok.com/)
-116346172951809", "Leonov" %}
+{% tiktok "https://www.tiktok.com/@best_short_moments/video/7018116346172951809", "Леонов" %}
 
 À 52 ans, vous avez oublié que la liberté sans bon sens, sans bon cœur
 et sans intelligence est une chose terrible. je Je pense que tu as été
